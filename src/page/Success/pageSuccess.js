@@ -23,7 +23,7 @@ export default function PageSuccess() {
       id="pageNotFound"
       className="flex flex-col justify-center items-center"
     >
-      <h1>Cám ơn bạn đã đặt vé</h1>
+      <h1>Cám ơn đã đặt vé</h1>
       <p className="my-16">Bạn đã đặt vé xem phim thành công.</p>
       <div>
         <button className="button">
