@@ -17,7 +17,8 @@ export const CINEMA_URL = "https://cinema-api-61nr.onrender.com/";
 export const USER_URL = "https://user-api-btn4.onrender.com/";
 // export const TICKET_URL = "http://localhost:2003/api/";
 export const TICKET_URL = "https://ticket-api-a67j.onrender.com/api/";
-export const PAYMENT_URL = "http://localhost:8888/order/";
+// export const PAYMENT_URL = "http://localhost:8888/order/";
+export const PAYMENT_URL = "https://payment-api-2dli.onrender.com/order/";
 
 export const TOKEN_CYBER =
   "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0ZW5Mb3AiOiJoYWNrZXIiLCJIZXRIYW5TdHJpbmciOiIxMi8xMi8yMDI1IiwiSGV0SGFuVGltZSI6IjE3NjU0NzI0MDAwMDAiLCJpYXQiOjE3MDIzNTg4NTcsImV4cCI6MTcwMjM1OTQ1N30.q0H9Y1q7OB7Y7JoAPumlXATPbMYgMeGpkC_bkAsHP6Q";
